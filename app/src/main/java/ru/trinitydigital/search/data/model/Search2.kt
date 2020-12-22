@@ -2,7 +2,7 @@ package ru.trinitydigital.search.data.model
 
 import com.google.gson.annotations.SerializedName
 
-data class Search(
+data class Search2(
     @SerializedName("Poster")
     val poster: String,
     @SerializedName("Title")
